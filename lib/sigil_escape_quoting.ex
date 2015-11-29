@@ -1,0 +1,2 @@
+defmodule SigilEscapeQuoting do
+end
